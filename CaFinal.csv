@@ -1,4 +1,4 @@
-County,Total Population,Men,Women,% Hispanic,% White,% Black,% Native,% Asian,% Pacific,Over 18,Income,% Poverty,Professional,Service,Office,Construction,Production,WorkAtHome,Employed,PrivateWork,PublicWork,SelfEmployed,% Unemployment rate
+County,TotalPopulation,Men,Women,%Hispanic,%White,%Black,%Native,%Asian,%Pacific,Over18,Income,%Poverty,Professional,Service,Office,Construction,Production,WorkAtHome,Employed,PrivateWork,PublicWork,SelfEmployed,%UnemploymentRate
 Los Angeles,10105722,4979641,5126081,48.4,26.5,7.9,0.2,14.3,0.2,6218279,61015,17,36.4,19,24.1,7.6,12.8,5.3,4805817,79.3,11.2,9.3,7.8
 San Diego,3283665,1651147,1632518,33.4,46.2,4.7,0.4,11.5,0.4,2207599,70588,13.3,41.3,19.6,23,7.6,8.4,7,1536073,77.8,14.2,7.8,7.1
 Orange,3155816,1558245,1597571,34.2,41.4,1.6,0.2,19.5,0.3,2021028,81851,12.1,40.9,17.5,24.8,6.6,10.2,5.6,1560997,82,10.1,7.7,5.8
